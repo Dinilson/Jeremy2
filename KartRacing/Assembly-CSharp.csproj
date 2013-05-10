@@ -170,6 +170,7 @@
      <Compile Include="Assets\Scripts\Motorcycle.cs" />
      <Compile Include="Assets\Scripts\NGUI.cs" />
      <Compile Include="Assets\Scripts\NGUIClick.cs" />
+     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\PathMovement.cs" />
      <Compile Include="Assets\Scripts\StaticVar.cs" />
      <Compile Include="Assets\iTween\Plugins\iTween.cs" />
